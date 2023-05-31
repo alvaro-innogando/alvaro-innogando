@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, it's Álvaro! 👋
 
-<!--
-**alvaro-innogando/alvaro-innogando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a software developer based in [A Coruña, Galicia](https://goo.gl/maps/toE6B6P5XvtDYGkNA). Here are some interesting things about me!
 
-Here are some ideas to get you started:
+## 🧐 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently 21 y/o 🧍‍♂️.
+- Student of 🧑‍🎓 Computer Engineering - Information Technologies at [Universidade da Coruña](https://www.udc.es/) 🏫.
+- Part of the Software Development team at [Innogando](https://innogando.com) 🐮.
+- Love traveling around the world 🌍.
+- Always enthusiastic about meeting new people. You never know who can inspire you 💭 or make an impact 💡 in your life!
+
+## 💻 Skills
+
+Here is a list of some of my skills:
+
+- Mobile app dev 📱 - Flutter.
+- Web app dev 🌐 - Next.js.
+- Backend dev - Python 🐍.
+- Of course - Git 🤣.
+
+## 📫 Contact me
+
+If you have anything you want to share with me, feel free to git me up at alvaro@innogando.com ✉️! I will be happy to help you in any way I can. 
+
+## 🎉 Thanks for visiting my profile!
+
+I hope I have given you an idea of who I am 😄!
